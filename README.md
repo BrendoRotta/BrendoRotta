@@ -1,4 +1,4 @@
-### Eu Sou Brendo Rotta
+### Uma jornada de 1000KM se inicia com 1 passo!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrendoRotta&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendoRotta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
